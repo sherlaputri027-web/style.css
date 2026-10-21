@@ -1,0 +1,20 @@
+\<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil sherla putri </title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <!--konten yg terlihat akan tampil disini -->
+    <div class="kartu profil">
+    <img src="foto/95c669082520d4a5fffef966a672b1f2.jpg" alt="foto profil saya">
+    <h1> sherla putri</h1>
+    <p>siswa sma yang suka belajsr coding. selamat datang di web saya</p>
+    <a href="https://instagram.com/ssherlaa_">kunjungi instagran saya</a>
+    <button id="sapaButton">sapa aku</button>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
